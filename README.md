@@ -18,11 +18,14 @@ A SQL-based exploratory data analysis project focused on understanding patterns 
 
 ---
 
-## 📁 Files
-- `employee_attrition.csv` – Dataset
-- `employee_attrition_queries.sql` – All SQL queries used
-- `employee_attrition_report.pdf` – Full summary and insights (optional)
-
+## 📁 Project Structure
+```
+Employee-Attrition-SQL/
+├── employee_attrition.csv            # Dataset
+├── employee_attrition_queries.sql    # All SQL queries used
+├── employee_attrition_report.pdf     # (optional) Final report with insights
+└── README.md                         # This file
+````
 ---
 
 ## 🔍 Sample Insights
